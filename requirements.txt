@@ -1,0 +1,7 @@
+
+cython
+numpy
+flask
+pandas
+statsmodels
+scikit-learn==0.22.1
